@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Trained checkpoints are build artifacts: div3.py regenerates them in ~2 min,
+# and they change on every run. The code is the thing worth versioning.
+*.pt
