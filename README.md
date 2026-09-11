@@ -1,13 +1,3 @@
----
-license: mit
-library_name: pytorch
-tags:
-- divisibility
-- arithmetic
-- custom-architecture
-- digit-histogram
----
-
 # Div3Net — Divisibility-by-3 Classifier
 
 A custom PyTorch classifier that predicts whether a non-negative
